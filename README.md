@@ -29,7 +29,7 @@ Krishi Sewa is a final-year engineering project developed to help farmers make d
 - Pandas
 - NumPy
 
-## 🔧 Hardware Components
+##  Hardware Components
 
 - ESP32 Development Board
 - Soil Moisture Sensor
