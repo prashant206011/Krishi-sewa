@@ -84,14 +84,6 @@ Start the FastAPI server:
 python server.py
 ```
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Hardware Setup
-- Crop Recommendation
-- Fertilizer Recommendation
 
 ## 🔮 Future Enhancements
 
